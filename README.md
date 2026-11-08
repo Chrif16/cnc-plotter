@@ -11,5 +11,5 @@ i used the base to mount the components on the sides and left the middle part em
 # Wiring diagram
 you just have to plug the motors into the motor drivers and the motor drivers into the esp32 and configure the firmware according to your wiring.<img width="1477" height="603" alt="Capture d&#39;écran 2026-11-08 190205" src="https://github.com/user-attachments/assets/d53212f4-ccf9-411e-b6c0-c6cbeb4fa3c2" />
 # Firmware
-use blablabla's web flasher and change the configuration file to your setup
+use [FluidNC](https://installer.fluidnc.com/fluidnc)'s web flasher and change the configuration file to your setup
 # BOM
